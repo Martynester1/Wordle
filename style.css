@@ -1,0 +1,25 @@
+html, body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #000000;
+}
+
+body {
+  display: flex;
+  justify-content: center; /* horizontálně */
+  align-items: center;     /* vertikálně */
+  background-color: #000000;
+}
+
+ #game-container {
+      border: 6px solid #2600ff; /* MODRÁ OHRANIČENÍ */
+      padding: 10px;
+      background: #2600ff;
+      border-radius: 12px;
+      box-shadow: 0 0 20px #2600ff;
+      }
+  
+  
