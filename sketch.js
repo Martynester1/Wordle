@@ -3,7 +3,7 @@ let words = [
   "APPLE", "TABLE", "CHAIR", "HOUSE", "WATER", "LIGHT", "SMILE", "BRAIN",
   "HEART", "PLANT", "RIVER", "CLOUD", "GREEN", "SWEET", "SHARP", "QUIET",
   "YOUNG", "MONEY", "TRAIN", "BEACH", "PHONE", "MUSIC", "WATCH", "WRITE",
-  "READS", "SPEAK", "LEARN", "TEACH", "WORKS", "PLAYS", "LIVES", "HELLO",
+  "READS", "SPEAK", "LEARN", "TEACH", "WORKS", "PLAYS", "HELLO",
   "EARLY", "LATER", "TODAY", "NIGHT", "SLEEP", "DREAM", "HAPPY", "ANGRY",
   "TIRED", "CLEAN", "DIRTY", "CLOSE", "START", "BEGIN", "PLACE", "WORLD",
   "ENJOY", "THANK", "SOUND", "BLEND", "POINT", "FOUND", "BREAK", "GREAT",
@@ -65,3 +65,4 @@ function getColor(type) {
   if (type === "yellow") return color(170, 170, 0);
   return color(32, 32, 32);
 }
+
