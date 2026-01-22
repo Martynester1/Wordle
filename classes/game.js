@@ -34,7 +34,7 @@ class Game {
     this.result = "";                // win/lose výsledek
     this.invalidWord = false;        // zatím žádná chyba
 
-    console.log("Solution:", this.solution); 
+    //console.log("Solution:", this.solution); 
   }
 
   // funkce, která reaguje na stisk kláves
@@ -151,3 +151,4 @@ class Game {
     }
   }
 }
+
