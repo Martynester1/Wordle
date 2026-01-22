@@ -33,8 +33,6 @@ class Game {
     this.gameOver = false;           // hra není u konce
     this.result = "";                // win/lose výsledek
     this.invalidWord = false;        // zatím žádná chyba
-
-    //console.log("Solution:", this.solution); 
   }
 
   // funkce, která reaguje na stisk kláves
@@ -151,4 +149,5 @@ class Game {
     }
   }
 }
+
 
